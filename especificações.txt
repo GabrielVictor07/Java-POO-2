@@ -1,0 +1,15 @@
+Uma loja de camisetas está expandindo seus negócios para o ambiente online. O gerente solicitou a criação de um sistema simples, porém flexível, para cadastrar produtos, aplicar promoções e exibir os detalhes das camisetas.
+Atualmente, a loja trabalha com dois tipos principais de camisetas: simples e estampadas. No futuro, outros tipos poderão ser adicionados. O sistema deve ser pensado com boas práticas de Programação Orientada a Objetos, utilizando os pilares de encapsulamento, herança e polimorfismo.
+
+1. Seguindo as orientações do diagrama de classe UML identifique os atributos, métodos, o nível de visibilidade e a herança entre as classes.  
+2. Implemente as classes do diagrama de classe em Java, com seus atributos, métodos e a herança entre elas.
+3. A gerente quer aplicar promoções periódicas. Crie o método calcularDesconto na classe Camiseta, que retorna o preço com desconto aplicado.
+Para camisetas simples, o desconto deve ser sempre 10%.
+Para camisetas estampadas, o desconto deve ser de 5%.
+4. Responda às perguntas abaixo no final do código (como comentário ou em um arquivo separado):
+a) Por que o uso de herança foi importante neste projeto?
+b) Como o polimorfismo foi aplicado e como isso torna o sistema mais flexível?
+
+Entrega:
+Essa avaliação deve ser entregue com o link do repositório do GitHub, você deve criar um arquivo para iniciar o repositório local realizar a atividade e subir no seu repositório remoto no Github.
+Aqui você deve colocar o link do seu repositório remoto da avaliação.
